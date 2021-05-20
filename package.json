@@ -1,9 +1,9 @@
 {
-  "name": "@uiw/react-md-editor",
-  "version": "3.0.9",
+  "name": "@topgames/react-md-editor",
+  "version": "3.0.9-bi.0",
   "description": "A markdown editor with preview, implemented with React.js and TypeScript.",
-  "homepage": "https://uiwjs.github.io/react-md-editor/",
-  "author": "kenny wang <wowohoo@qq.com>",
+  "homepage": "https://github.com/topgames-release/react-md-editor",
+  "author": "Ying Wang <wowohoo@qq.com>",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "typings": "lib/cjs/index.d.ts",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiwjs/react-md-editor"
+    "url": "https://github.com/topgames-release/react-md-editor"
   },
   "files": [
     "dist",
@@ -102,5 +102,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
