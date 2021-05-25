@@ -1,6 +1,6 @@
 {
   "name": "@topgames/react-md-editor",
-  "version": "3.0.9-bi.0",
+  "version": "3.0.9-bi.1",
   "description": "A markdown editor with preview, implemented with React.js and TypeScript.",
   "homepage": "https://github.com/topgames-release/react-md-editor",
   "author": "Ying Wang <wowohoo@qq.com>",

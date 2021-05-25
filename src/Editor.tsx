@@ -227,6 +227,7 @@ const InternalMDEditor = (
             <MarkdownPreview
               {...(previewOptions as unknown)}
               onScroll={handleScroll}
+              linkTarget={'_blank'}
               ref={previewRef}
               source={state.markdown || ''}
               className={`${prefixCls}-preview`}
